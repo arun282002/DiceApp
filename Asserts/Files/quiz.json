@@ -1,0 +1,1052 @@
+[
+  {
+    "category": "Famous Dice Games",
+    "questions": [
+      {
+        "question": "Which ancient Indian board game uses dice and involves strategic gameplay?",
+        "options": [
+          "Chess",
+          "Pachisi",
+          "Backgammon",
+          "Checkers"
+        ],
+        "answer": "Pachisi"
+      },
+      {
+        "question": "What's the name of the game that involves rolling dice and matching combinations to score points?",
+        "options": [
+          "Yahtzee",
+          "Monopoly",
+          "Risk",
+          "Clue"
+        ],
+        "answer": "Yahtzee"
+      },
+      {
+        "question": "Which card game utilizes dice rolls for determining outcomes during battles?",
+        "options": [
+          "Magic: The Gathering",
+          "Yu-Gi-Oh!",
+          "Pokemon TCG",
+          "Dice Masters"
+        ],
+        "answer": "Dice Masters"
+      },
+      {
+        "question": "In which board game do players use dice to move their pieces around the board and buy properties?",
+        "options": [
+          "Scrabble",
+          "Chess",
+          "Monopoly",
+          "Risk"
+        ],
+        "answer": "Monopoly"
+      },
+      {
+        "question": "What's the name of the ancient Roman dice game that involves betting on the outcome of dice rolls?",
+        "options": [
+          "Sic Bo",
+          "Tali",
+          "Farkle",
+          "Liar's Dice"
+        ],
+        "answer": "Tali"
+      },
+      {
+        "question": "Which classic dice game involves trying to roll certain combinations like 'Full House' and 'Straight'?",
+        "options": [
+          "Clue",
+          "Monopoly",
+          "Risk",
+          "Yahtzee"
+        ],
+        "answer": "Yahtzee"
+      },
+      {
+        "question": "What's the name of the dice game that originated in Germany and involves trying to score points by rolling dice?",
+        "options": [
+          "Liar's Dice",
+          "Farkle",
+          "Zilch",
+          "Kniffel"
+        ],
+        "answer": "Kniffel"
+      },
+      {
+        "question": "Which game uses dice rolls to simulate battles and strategic conquests on a global map?",
+        "options": [
+          "Risk",
+          "Monopoly",
+          "Chess",
+          "Scrabble"
+        ],
+        "answer": "Risk"
+      },
+      {
+        "question": "What's the name of the popular dice game that involves trying to reach a target score by rolling combinations?",
+        "options": [
+          "Farkle",
+          "Yahtzee",
+          "Liar's Dice",
+          "Kniffel"
+        ],
+        "answer": "Farkle"
+      },
+      {
+        "question": "Which ancient Egyptian game uses dice for determining moves and outcomes during gameplay?",
+        "options": [
+          "Senet",
+          "Mancala",
+          "Chess",
+          "Backgammon"
+        ],
+        "answer": "Senet"
+      }
+    ]
+  },
+  {
+    "category": "Dice Types",
+    "questions": [
+      {
+        "question": "What type of dice has 8 sides?",
+        "options": [
+          "Octahedron",
+          "Dodecahedron",
+          "Icosahedron",
+          "Cuboid"
+        ],
+        "answer": "Octahedron"
+      },
+      {
+        "question": "How many sides does a 'D4' die have?",
+        "options": [
+          "2",
+          "4",
+          "6",
+          "8"
+        ],
+        "answer": "4"
+      },
+      {
+        "question": "Which of these is a type of dice used in role-playing games?",
+        "options": [
+          "Dungeon dice",
+          "Dragon dice",
+          "D&D dice",
+          "Demon dice"
+        ],
+        "answer": "D&D dice"
+      },
+      {
+        "question": "What's the term for a 12-sided die?",
+        "options": [
+          "Dodecahedron",
+          "Icosahedron",
+          "D10",
+          "Decahedron"
+        ],
+        "answer": "Dodecahedron"
+      },
+      {
+        "question": "Which type of dice is typically used for determining initiative in tabletop RPGs?",
+        "options": [
+          "D4",
+          "D6",
+          "D8",
+          "D20"
+        ],
+        "answer": "D20"
+      },
+      {
+        "question": "What is the name of the 100-sided die commonly used in gaming?",
+        "options": [
+          "Centidie",
+          "Decahedron",
+          "Zocchihedron",
+          "Gigahedron"
+        ],
+        "answer": "Zocchihedron"
+      },
+      {
+        "question": "Which of these is NOT a type of dice commonly used in games?",
+        "options": [
+          "D4",
+          "D12",
+          "D16",
+          "D30"
+        ],
+        "answer": "D30"
+      },
+      {
+        "question": "What's the term for a dice with 20 sides?",
+        "options": [
+          "Decahedron",
+          "Dodecahedron",
+          "Icosahedron",
+          "D20"
+        ],
+        "answer": "D20"
+      },
+      {
+        "question": "Which type of dice is often used in gambling games?",
+        "options": [
+          "D8",
+          "D10",
+          "D12",
+          "D20"
+        ],
+        "answer": "D20"
+      },
+      {
+        "question": "What is the term for a dice that has an irregular shape with a varying number of sides?",
+        "options": [
+          "Polyhedral",
+          "Heterogeneous",
+          "Anomalous",
+          "Nonuniform"
+        ],
+        "answer": "Polyhedral"
+      }
+    ]
+  },
+  {
+    "category": "Dice History",
+    "questions": [
+      {
+        "question": "Which ancient civilization is credited with inventing the first known six-sided dice?",
+        "options": [
+          "Greek",
+          "Roman",
+          "Egyptian",
+          "Chinese"
+        ],
+        "answer": "Greek"
+      },
+      {
+        "question": "In medieval times, dice were commonly made from which material?",
+        "options": [
+          "Stone",
+          "Wood",
+          "Metal",
+          "Bone"
+        ],
+        "answer": "Bone"
+      },
+      {
+        "question": "What was the purpose of dice in ancient Mesopotamia?",
+        "options": [
+          "Religious rituals",
+          "Entertainment",
+          "Tax collection",
+          "Divination"
+        ],
+        "answer": "Divination"
+      },
+      {
+        "question": "Which famous English king banned dice games during his reign?",
+        "options": [
+          "King Henry VIII",
+          "King Richard I",
+          "King Edward III",
+          "King John"
+        ],
+        "answer": "King Henry VIII"
+      },
+      {
+        "question": "What's the name of the dice game that originated in China and spread to other parts of Asia?",
+        "options": [
+          "Mahjong",
+          "Sic Bo",
+          "Pai Gow",
+          "Go"
+        ],
+        "answer": "Sic Bo"
+      },
+      {
+        "question": "Which Renaissance polymath is known for his studies on probability using dice?",
+        "options": [
+          "Leonardo da Vinci",
+          "Nicolaus Copernicus",
+          "Galileo Galilei",
+          "Blaise Pascal"
+        ],
+        "answer": "Blaise Pascal"
+      },
+      {
+        "question": "What's the term for the practice of using weighted or loaded dice to cheat in games?",
+        "options": [
+          "Dice manipulation",
+          "Dice stacking",
+          "Dice loading",
+          "Dice rigging"
+        ],
+        "answer": "Dice loading"
+      },
+      {
+        "question": "Which famous playwright referred to dice as 'the devil's bones' in one of his works?",
+        "options": [
+          "William Shakespeare",
+          "Christopher Marlowe",
+          "George Bernard Shaw",
+          "Tennessee Williams"
+        ],
+        "answer": "William Shakespeare"
+      },
+      {
+        "question": "In which century did dice games become popular in European courts?",
+        "options": [
+          "15th century",
+          "16th century",
+          "17th century",
+          "18th century"
+        ],
+        "answer": "16th century"
+      },
+      {
+        "question": "What's the name of the traditional Japanese dice game that translates to 'dice duel'?",
+        "options": [
+          "Sugoroku",
+          "Shogi",
+          "Hanafuda",
+          "Kabaddi"
+        ],
+        "answer": "Sugoroku"
+      }
+    ]
+  },
+  {
+    "category": "Dice Basics",
+    "questions": [
+      {
+        "question": "What is the maximum number that can appear on a standard six-sided die?",
+        "options": [
+          "4",
+          "6",
+          "8",
+          "10"
+        ],
+        "answer": "6"
+      },
+      {
+        "question": "In 'Dice Dreams,' what happens when you roll a double on the dice?",
+        "options": [
+          "Earn bonus points",
+          "Move backward",
+          "Lose a turn",
+          "Nothing special"
+        ],
+        "answer": "Earn bonus points"
+      },
+      {
+        "question": "Which of the following is NOT a common dice face on a six-sided die?",
+        "options": [
+          "Triangle",
+          "Circle",
+          "Square",
+          "Star"
+        ],
+        "answer": "Circle"
+      },
+      {
+        "question": "What is the term for rolling the same number on both dice in one roll?",
+        "options": [
+          "Doubles",
+          "Snake eyes",
+          "Matching",
+          "Twinning"
+        ],
+        "answer": "Doubles"
+      },
+      {
+        "question": "How many sides does a typical D20 die have?",
+        "options": [
+          "6",
+          "12",
+          "20",
+          "24"
+        ],
+        "answer": "20"
+      },
+      {
+        "question": "What's the term for the total number rolled on both dice?",
+        "options": [
+          "Sum",
+          "Totality",
+          "Addition",
+          "Aggregate"
+        ],
+        "answer": "Sum"
+      },
+      {
+        "question": "Which of these is a possible combination when rolling two six-sided dice?",
+        "options": [
+          "6 and 7",
+          "2 and 4",
+          "5 and 12",
+          "3 and 8"
+        ],
+        "answer": "2 and 4"
+      },
+      {
+        "question": "What's the name of the person who rolls the dice in a game?",
+        "options": [
+          "Thrower",
+          "Roller",
+          "Caster",
+          "Shooter"
+        ],
+        "answer": "Roller"
+      },
+      {
+        "question": "In 'Dice Dreams,' what color is typically associated with the highest value on the dice?",
+        "options": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow"
+        ],
+        "answer": "Red"
+      },
+      {
+        "question": "What's the term for the face of a die that is opposite the number one?",
+        "options": [
+          "Top",
+          "Bottom",
+          "Opposite",
+          "Back"
+        ],
+        "answer": "Bottom"
+      }
+    ]
+  },
+  {
+    "category": "Gameplay Mechanics",
+    "questions": [
+      {
+        "question": "What is the main objective of 'Dice Dreams'?",
+        "options": [
+          "Reach the end of the board",
+          "Collect the most stars",
+          "Avoid rolling doubles",
+          "Conquer other players"
+        ],
+        "answer": "Collect the most stars"
+      },
+      {
+        "question": "In the game, what happens when you land on a 'Bonus' space?",
+        "options": [
+          "Lose a turn",
+          "Earn extra points",
+          "Move back to start",
+          "Skip the next player's turn"
+        ],
+        "answer": "Earn extra points"
+      },
+      {
+        "question": "Which of the following is NOT a possible action in 'Dice Dreams'?",
+        "options": [
+          "Rolling a double",
+          "Using a special ability",
+          "Skipping a turn",
+          "Moving backward"
+        ],
+        "answer": "Skipping a turn"
+      },
+      {
+        "question": "What does the 'Golden Dice' item do in 'Dice Dreams'?",
+        "options": [
+          "Doubles your next roll",
+          "Earns bonus stars",
+          "Allows an extra turn",
+          "Freezes opponents"
+        ],
+        "answer": "Doubles your next roll"
+      },
+      {
+        "question": "How many dice are typically rolled in one turn in 'Dice Dreams'?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "answer": "1"
+      },
+      {
+        "question": "Which color die is usually associated with higher movement in 'Dice Dreams'?",
+        "options": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow"
+        ],
+        "answer": "Yellow"
+      },
+      {
+        "question": "What's the penalty for landing on a 'Miss a Turn' space in 'Dice Dreams'?",
+        "options": [
+          "Skip a turn",
+          "Move back three spaces",
+          "Lose all stars",
+          "Nothing happens"
+        ],
+        "answer": "Skip a turn"
+      },
+      {
+        "question": "What's the term for moving a piece back to its starting position in 'Dice Dreams'?",
+        "options": [
+          "Reset",
+          "Revert",
+          "Recall",
+          "Return"
+        ],
+        "answer": "Reset"
+      },
+      {
+        "question": "How is the winner determined in 'Dice Dreams'?",
+        "options": [
+          "Most stars collected",
+          "First to reach the end",
+          "Highest roll total",
+          "Survivor of elimination rounds"
+        ],
+        "answer": "Most stars collected"
+      },
+      {
+        "question": "Which of these is NOT a game mode in 'Dice Dreams'?",
+        "options": [
+          "Classic",
+          "Survival",
+          "Blitz",
+          "Endless"
+        ],
+        "answer": "Endless"
+      }
+    ]
+  },
+  {
+    "category": "Random Facts",
+    "questions": [
+      {
+        "question": "Which actor portrayed a character named 'Dice' in a popular TV series?",
+        "options": [
+          "Johnny Depp",
+          "Matt Damon",
+          "Vin Diesel",
+          "Andrew Dice Clay"
+        ],
+        "answer": "Andrew Dice Clay"
+      },
+      {
+        "question": "What's the name of the popular mobile game where players roll virtual dice to move around a board?",
+        "options": [
+          "Dice Mania",
+          "Dice Dreams",
+          "Dice Masters",
+          "Dice Land"
+        ],
+        "answer": "Dice Dreams"
+      },
+      {
+        "question": "Which famous song includes the lyrics 'Roll the dice, take my advice'?",
+        "options": [
+          "'Gambler' by Kenny Rogers",
+          "'Rolling in the Deep' by Adele",
+          "'Shape of My Heart' by Sting",
+          "'Viva Las Vegas' by Elvis Presley"
+        ],
+        "answer": "'Shape of My Heart' by Sting"
+      },
+      {
+        "question": "What's the term for the practice of using dice in decision-making or divination?",
+        "options": [
+          "Astragalomancy",
+          "Psephomancy",
+          "Tessaromancy",
+          "Aleuromancy"
+        ],
+        "answer": "Psephomancy"
+      },
+      {
+        "question": "Which famous board game uses dice as a key component for movement?",
+        "options": [
+          "Monopoly",
+          "Scrabble",
+          "Chess",
+          "Risk"
+        ],
+        "answer": "Monopoly"
+      },
+      {
+        "question": "Which science fiction movie features a scene where characters play a life-threatening game with dice?",
+        "options": [
+          "Inception",
+          "The Matrix",
+          "Blade Runner",
+          "The Hunger Games"
+        ],
+        "answer": "The Hunger Games"
+      },
+      {
+        "question": "What's the term for a small piece of software used to generate random numbers in computer games?",
+        "options": [
+          "Randomizer",
+          "Dice engine",
+          "RNG tool",
+          "Random number generator"
+        ],
+        "answer": "Random number generator"
+      },
+      {
+        "question": "Which famous mathematician is known for his contributions to probability theory, including the study of dice games?",
+        "options": [
+          "Isaac Newton",
+          "Euclid",
+          "Leonhard Euler",
+          "Pierre-Simon Laplace"
+        ],
+        "answer": "Pierre-Simon Laplace"
+      },
+      {
+        "question": "In ancient Rome, what was the name of the goddess associated with dice games and luck?",
+        "options": [
+          "Fortuna",
+          "Minerva",
+          "Venus",
+          "Diana"
+        ],
+        "answer": "Fortuna"
+      },
+      {
+        "question": "What's the term for the practice of rolling dice to determine the outcome of actions in tabletop role-playing games?",
+        "options": [
+          "Dice casting",
+          "Dice rolling",
+          "Dice resolution",
+          "Dice adjudication"
+        ],
+        "answer": "Dice rolling"
+      }
+    ]
+  },
+  {
+    "category": "Dice Mathematics",
+    "questions": [
+      {
+        "question": "What's the probability of rolling a sum of 7 on two six-sided dice?",
+        "options": [
+          "1/6",
+          "1/8",
+          "1/12",
+          "1/36"
+        ],
+        "answer": "1/6"
+      },
+      {
+        "question": "If you roll two dice, what's the probability of getting a double (same number on both dice)?",
+        "options": [
+          "1/6",
+          "1/8",
+          "1/12",
+          "1/36"
+        ],
+        "answer": "1/6"
+      },
+      {
+        "question": "What's the expected value of rolling a fair six-sided die?",
+        "options": [
+          "2",
+          "3",
+          "3.5",
+          "4"
+        ],
+        "answer": "3.5"
+      },
+      {
+        "question": "If a die is loaded to favor rolling a 6, what effect does this have on the probability of rolling a 6?",
+        "options": [
+          "Increases",
+          "Decreases",
+          "Stays the same",
+          "Depends on other factors"
+        ],
+        "answer": "Increases"
+      },
+      {
+        "question": "What's the probability of rolling a sum of 11 on two six-sided dice?",
+        "options": [
+          "1/6",
+          "1/8",
+          "1/12",
+          "1/36"
+        ],
+        "answer": "1/18"
+      },
+      {
+        "question": "If you roll two dice, what's the probability of getting a sum of 5?",
+        "options": [
+          "1/6",
+          "1/8",
+          "1/12",
+          "1/36"
+        ],
+        "answer": "1/9"
+      },
+      {
+        "question": "What's the probability of rolling two six-sided dice and getting a sum greater than 9?",
+        "options": [
+          "1/6",
+          "1/8",
+          "1/12",
+          "1/36"
+        ],
+        "answer": "5/12"
+      },
+      {
+        "question": "If you roll two dice, what's the probability of getting a sum of 12?",
+        "options": [
+          "1/6",
+          "1/8",
+          "1/12",
+          "1/36"
+        ],
+        "answer": "1/36"
+      },
+      {
+        "question": "What's the probability of rolling a sum of 4 on two six-sided dice?",
+        "options": [
+          "1/6",
+          "1/8",
+          "1/12",
+          "1/36"
+        ],
+        "answer": "1/12"
+      },
+      {
+        "question": "If you roll two dice, what's the probability of getting a sum of 8?",
+        "options": [
+          "1/6",
+          "1/8",
+          "1/12",
+          "1/36"
+        ],
+        "answer": "5/36"
+      }
+    ]
+  },
+  {
+    "category": "Dice Artifacts",
+    "questions": [
+      {
+        "question": "What's the name of the ancient Roman dice tower used for fair dice rolls?",
+        "options": [
+          "Tessaract",
+          "Trilithon",
+          "Tumbler",
+          "Turris"
+        ],
+        "answer": "Turris"
+      },
+      {
+        "question": "Which ancient culture used bone dice marked with dots for gaming purposes?",
+        "options": [
+          "Egyptians",
+          "Greeks",
+          "Mayans",
+          "Vikings"
+        ],
+        "answer": "Mayans"
+      },
+      {
+        "question": "What's the term for the practice of using dice made from animal bones?",
+        "options": [
+          "Ivory dice",
+          "Bone dice",
+          "Tusk dice",
+          "Marble dice"
+        ],
+        "answer": "Bone dice"
+      },
+      {
+        "question": "Which medieval artifact is believed to have been used as a form of dice in gambling?",
+        "options": [
+          "Chess piece",
+          "Celtic knot",
+          "Gaming stone",
+          "Die of fortune"
+        ],
+        "answer": "Gaming stone"
+      },
+      {
+        "question": "What's the name of the ancient Greek dice game that involved gambling with small pebbles?",
+        "options": [
+          "Tesserae",
+          "Astragaloi",
+          "Kubos",
+          "Pessoi"
+        ],
+        "answer": "Astragaloi"
+      },
+      {
+        "question": "Which ancient civilization is known for using dice made from precious stones like jade?",
+        "options": [
+          "Chinese",
+          "Indian",
+          "Aztec",
+          "Persian"
+        ],
+        "answer": "Chinese"
+      },
+      {
+        "question": "What's the term for the practice of using dice made from elephant tusks?",
+        "options": [
+          "Ivory dice",
+          "Bone dice",
+          "Tusk dice",
+          "Marble dice"
+        ],
+        "answer": "Ivory dice"
+      },
+      {
+        "question": "Which ancient board game required players to roll dice made from knucklebones?",
+        "options": [
+          "Senet",
+          "Mancala",
+          "Backgammon",
+          "Tali"
+        ],
+        "answer": "Tali"
+      },
+      {
+        "question": "What's the name of the cylindrical dice cup used for shaking and rolling dice in games?",
+        "options": [
+          "Dice shaker",
+          "Dice cup",
+          "Dice tumbler",
+          "Dice tower"
+        ],
+        "answer": "Dice cup"
+      },
+      {
+        "question": "Which ancient civilization is known for using dice made from clay or pottery?",
+        "options": [
+          "Greek",
+          "Egyptian",
+          "Roman",
+          "Mesopotamian"
+        ],
+        "answer": "Mesopotamian"
+      }
+    ]
+  },
+  {
+    "category": "Dice Superstitions",
+    "questions": [
+      {
+        "question": "In many cultures, what's the significance of rolling a 'snake eyes' (two ones) on dice?",
+        "options": [
+          "Good luck",
+          "Bad luck",
+          "Neutral luck",
+          "Depends on the context"
+        ],
+        "answer": "Bad luck"
+      },
+      {
+        "question": "Which superstition suggests that blowing on dice before rolling brings good luck?",
+        "options": [
+          "Dice blessing",
+          "Dice blowing",
+          "Dice breath",
+          "Dice charm"
+        ],
+        "answer": "Dice blowing"
+      },
+      {
+        "question": "What's the belief associated with rolling a 'lucky seven' on dice in gambling games?",
+        "options": [
+          "Immediate win",
+          "Double bet",
+          "Bad omen",
+          "Good luck"
+        ],
+        "answer": "Good luck"
+      },
+      {
+        "question": "Which superstition involves never using red dice in games due to their association with danger?",
+        "options": [
+          "Red curse",
+          "Red taboo",
+          "Red fear",
+          "Red jinx"
+        ],
+        "answer": "Red taboo"
+      },
+      {
+        "question": "What's the superstition about using dice that have a particular number facing down before rolling?",
+        "options": [
+          "Lucky roll",
+          "Unlucky roll",
+          "Neutral roll",
+          "Dice turn"
+        ],
+        "answer": "Unlucky roll"
+      },
+      {
+        "question": "Which belief suggests that using loaded dice can bring guaranteed wins in games?",
+        "options": [
+          "Loaded luck",
+          "Dice magic",
+          "Cheat charm",
+          "Rigged roll"
+        ],
+        "answer": "Loaded luck"
+      },
+      {
+        "question": "What's the common superstition associated with rolling a 'boxcars' (two sixes) on dice?",
+        "options": [
+          "Immediate win",
+          "Double bet",
+          "Bad luck",
+          "Good luck"
+        ],
+        "answer": "Good luck"
+      },
+      {
+        "question": "Which superstition advises rolling dice only during certain phases of the moon for luck?",
+        "options": [
+          "Lunar luck",
+          "Moon magic",
+          "Celestial charm",
+          "Astrological blessing"
+        ],
+        "answer": "Astrological blessing"
+      },
+      {
+        "question": "What's the belief about using worn-out or 'lucky' dice for better outcomes in games?",
+        "options": [
+          "Dice wear",
+          "Lucky charm",
+          "Dice ritual",
+          "Dice blessing"
+        ],
+        "answer": "Lucky charm"
+      },
+      {
+        "question": "Which superstition involves shaking dice in a particular pattern or sequence before rolling for luck?",
+        "options": [
+          "Dice dance",
+          "Rolling ritual",
+          "Shaker shake",
+          "Shake charm"
+        ],
+        "answer": "Rolling ritual"
+      }
+    ]
+  },
+  {
+    "category": "Dice in Pop Culture",
+    "questions": [
+      {
+        "question": "In the movie 'Pirates of the Caribbean,' what's the name of the character known for his love of dice games?",
+        "options": [
+          "Captain Hook",
+          "Davy Jones",
+          "Captain Jack Sparrow",
+          "Blackbeard"
+        ],
+        "answer": "Captain Jack Sparrow"
+      },
+      {
+        "question": "Which TV series features a character named 'The Dice Man' who makes decisions based on dice rolls?",
+        "options": [
+          "Friends",
+          "Seinfeld",
+          "The Big Bang Theory",
+          "How I Met Your Mother"
+        ],
+        "answer": "Friends"
+      },
+      {
+        "question": "What's the title of the famous Broadway musical with a song about 'rolling the dice'?",
+        "options": [
+          "Les Misérables",
+          "Cats",
+          "The Phantom of the Opera",
+          "Guys and Dolls"
+        ],
+        "answer": "Guys and Dolls"
+      },
+      {
+        "question": "In the video game 'The Witcher 3: Wild Hunt,' what's the name of the dice game played by characters?",
+        "options": [
+          "Dice Poker",
+          "Gwent",
+          "Quint",
+          "Card Duel"
+        ],
+        "answer": "Dice Poker"
+      },
+      {
+        "question": "Which famous rock band released a song titled 'Tumbling Dice'?",
+        "options": [
+          "The Beatles",
+          "The Rolling Stones",
+          "Led Zeppelin",
+          "Pink Floyd"
+        ],
+        "answer": "The Rolling Stones"
+      },
+      {
+        "question": "In the movie 'Casino Royale,' what game does James Bond play with Le Chiffre involving dice?",
+        "options": [
+          "Baccarat",
+          "Craps",
+          "Poker",
+          "Roulette"
+        ],
+        "answer": "Craps"
+      },
+      {
+        "question": "What's the name of the character in 'Star Wars' known for using a pair of golden dice as a lucky charm?",
+        "options": [
+          "Han Solo",
+          "Obi-Wan Kenobi",
+          "Chewbacca",
+          "Lando Calrissian"
+        ],
+        "answer": "Han Solo"
+      },
+      {
+        "question": "Which classic novel features a scene where characters play a high-stakes game using dice as a key element?",
+        "options": [
+          "The Great Gatsby",
+          "Moby-Dick",
+          "The Catcher in the Rye",
+          "The Count of Monte Cristo"
+        ],
+        "answer": "The Count of Monte Cristo"
+      },
+      {
+        "question": "In the TV series 'Game of Thrones,' what's the name of the dice-like game played by characters?",
+        "options": [
+          "The Red Wedding",
+          "The Iron Throne",
+          "The Game of Faces",
+          "Cyvasse"
+        ],
+        "answer": "Cyvasse"
+      },
+      {
+        "question": "Which animated film features a character named 'Dice' who is known for his luck and gambling skills?",
+        "options": [
+          "Toy Story",
+          "Monsters, Inc.",
+          "Cars",
+          "Ratatouille"
+        ],
+        "answer": "Cars"
+      }
+    ]
+  }
+]

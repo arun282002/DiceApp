@@ -1,0 +1,219 @@
+{
+  "shield_data": [
+    {
+      "name": "The Defender",
+      "description": "This shield is available from the start of the game.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/1/12/The_Defender_.jpg/revision/latest?cb=20231102140940"
+    },
+    {
+      "name": "Peg-E",
+      "description": "This shield will be awarded for the top place during the Martian Mysteries tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/0/0d/PEG-E.png/revision/latest/scale-to-width-down/1000?cb=20240225160309"
+    },
+    {
+      "name": "Mr. M Vintage",
+      "description": "This shield will be awarded for completing the Quick Wins bar.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/7/7e/Mr._M_Vintage.png/revision/latest/scale-to-width-down/1000?cb=20240225160414"
+    },
+    {
+      "name": "Neon Nights",
+      "description": "This shield will be awarded for the Moon Walkers event.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/e/e7/Neon_Nights.png/revision/latest/scale-to-width-down/1000?cb=20240225160130"
+    },
+    {
+      "name": "Go!",
+      "description": "This shield will be awarded for the Prize Drop event.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/d/db/GO%21.png/revision/latest/scale-to-width-down/1000?cb=20240225160327"
+    },
+    {
+      "name": "Pink Heart",
+      "description": "This shield will be awarded for the top place during the Oktoberfest Contest tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/d/de/Pink_Heart.jpg/revision/latest?cb=20231102141104"
+    },
+    {
+      "name": "Armor Up",
+      "description": "This shield will be awarded for the top place during the Barrel Race tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/4/41/Armor_Up.jpg/revision/latest/scale-to-width-down/1000?cb=20231105180537"
+    },
+    {
+      "name": "Superstar",
+      "description": "This shield will be awarded for the top place during the Pretzel Party tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/a/a8/Superstar.jpg/revision/latest/scale-to-width-down/1000?cb=20231105180747"
+    },
+    {
+      "name": "Rocket Blast",
+      "description": "This shield will be awarded for the top place during the Skyscraper's Blast Off tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/3/3c/Rocket_Blast.jpg/revision/latest/scale-to-width-down/1000?cb=20231105180840"
+    },
+    {
+      "name": "Ghost",
+      "description": "This shield will be awarded for the top place during the Ghost Chase tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/3/32/Ghost_Shield.jpg/revision/latest?cb=20231102141215"
+    },
+    {
+      "name": "Cha-Ching PEG-E",
+      "description": "This shield will be awarded for the top place during the Dot Com Dash tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/f/f4/Cha-Ching_PEG-E.jpg/revision/latest?cb=20231120221603"
+    },
+    {
+      "name": "Scorpion",
+      "description": "This shield will be awarded at level 10 of the Egyptian Treasures event.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/2/2d/ScorpionShield.jpeg/revision/latest/scale-to-width-down/1000?cb=20231115210150"
+    },
+    {
+      "name": "Cranberry Splat",
+      "description": "This shield will be awarded for the top place during the Turkey Race tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/7/7f/Cranberry_splat.jpg/revision/latest?cb=20231120220439"
+    },
+    {
+      "name": "Mr. M Spartan",
+      "description": "This shield will be awarded for the top place during the Nessie's Quest tournament.",
+      "image": null
+    },
+    {
+      "name": "Heroic Red",
+      "description": "This shield will be awarded after purchasing the Games for Red sale.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/0/09/Heroic_Red.jpg/revision/latest?cb=20231204173254"
+    },
+    {
+      "name": "Merry Spruce",
+      "description": "This shield will be awarded for completing the Santa's Workshop sticker set for the Heartfelt Holidays sticker album.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/8/80/Merry_Spruce.jpg/revision/latest?cb=20231206113420"
+    },
+    {
+      "name": "Golden Merry Spruce",
+      "description": "This shield will be awarded for completing the Nutcracker Dreams sticker set for the prestige of Heartfelt Holidays sticker album.",
+      "image": null
+    },
+    {
+      "name": "Santa",
+      "description": "This shield will be awarded for the top place during the Mistletoe tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/0/09/Santa.jpg/revision/latest?cb=20240105140324"
+    },
+    {
+      "name": "Cozy Sweater",
+      "description": "This shield will be awarded for the top place during the Xmas Sweater Contest tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/a/a0/Cozy_Sweater.jpg/revision/latest?cb=20231219232811"
+    },
+    {
+      "name": "Rudolph",
+      "description": "This shield will be awarded for the top place during the Reindeer Gallop tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/e/ec/Rudolph.jpg/revision/latest?cb=20231226120116"
+    },
+    {
+      "name": "Snowflake",
+      "description": "This shield will be awarded for the top place during the Santa’s Sprint tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/1/1d/Snowflake.jpg/revision/latest?cb=20231226181352"
+    },
+    {
+      "name": "Disco Ball",
+      "description": "This shield will be awarded for the top placing during the Fireworks Frenzy tournament.",
+      "image": null
+    },
+    {
+      "name": "Water Works",
+      "description": "This shield will be awarded for completing the Card Quest sticker set for the Monopoly Origins sticker album.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/4/41/Water_Works.jpg/revision/latest?cb=20240112113111"
+    },
+    {
+      "name": "Electric Company",
+      "description": "This shield will be awarded for completing the Utility Fun sticker set for the prestige of Monopoly Origins sticker album.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/b/bc/Shield_-_Electric_Company.jpg/revision/latest?cb=20240322221215"
+    },
+    {
+      "name": "Snowman",
+      "description": "This shield will be awarded for the top place during the Snowman Contest tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/1/1e/Snowman.jpg/revision/latest?cb=20240122234821"
+    },
+    {
+      "name": "Jungle Tablet",
+      "description": "This shield will be awarded at level 13 of the Jungle Treasures event.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/4/4b/Jungle_Tablet.jpg/revision/latest?cb=20240207105148"
+    },
+    {
+      "name": "Winter Champion",
+      "description": "This shield will be awarded for the top place during the Speedster tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/c/ca/Winter_Champion.jpg/revision/latest?cb=20240207105150"
+    },
+    {
+      "name": "Masquerade Scottie",
+      "description": "This shield will be awarded for the top place during the Masquerade Madness tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/4/43/Masquerade_Scottie.jpg/revision/latest?cb=20240207105149"
+    },
+    {
+      "name": "Choco Heart",
+      "description": "This shield will be awarded for the top place during the Bouquet Builders tournament.",
+      "image": null
+    },
+    {
+      "name": "Space Capsule",
+      "description": "This shield will be awarded at level 13 of the Galactic Treasures event.",
+      "image": null
+    },
+    {
+      "name": "Ms. Monopoly",
+      "description": "This shield will be awarded for the top place during the Empowering Quest tournament.",
+      "image": null
+    },
+    {
+      "name": "Celtic Knot",
+      "description": "This shield will be awarded for the top place during the Horseshoe Games tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/b/b0/Celtic_Knot.jpg/revision/latest?cb=20240319214752"
+    },
+    {
+      "name": "Saharan Sapphire",
+      "description": "This shield will be awarded at level 12 of the Sunset Treasures event.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/7/73/Saharan_Sapphire.jpg/revision/latest?cb=20240319214752"
+    },
+    {
+      "name": "Vintage Turntable",
+      "description": "This shield will be awarded for completing the Boy Band sticker set for the Making Music sticker album.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/2/2c/Vintage_Turntable.jpg/revision/latest?cb=20240405211741"
+    },
+    {
+      "name": "Golden Vintage Turntable",
+      "description": "This shield will be awarded for completing the prestige Boy Band sticker set for the Making Music sticker album.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/a/a1/Golden_Turntable.jpg/revision/latest?cb=20240610112231"
+    },
+    {
+      "name": "Spring Forest",
+      "description": "This shield will be awarded at level 12 of the Spring Treasures event.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/c/c8/Spring_Forest.jpg/revision/latest?cb=20240401223357"
+    },
+    {
+      "name": "Easter Egg",
+      "description": "This shield will be awarded for the top place during the Easter Egg Hunt tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/8/8a/Easter_Egg_Token.jpg/revision/latest?cb=20240402211845"
+    },
+    {
+      "name": "Ice Cream Cone",
+      "description": "This shield was free to claim during Monopoly Go's first anniversary.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/4/4f/Ice_Cream_Cone_Shield.jpg/revision/latest?cb=20240520211455"
+    },
+    {
+      "name": "Anniversary Elegance",
+      "description": " This shield was awarded for getting to Level 12 in the Anniversary Treasures event.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/8/80/Anniversary_Elegance_Shield.jpg/revision/latest?cb=20240520211518"
+    },
+    {
+      "name": "1st Birthday Cake",
+      "description": "This shield was awarded for getting in the Top 5 in the Billions Dash Tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/0/01/First_Birthday_Shield.jpg/revision/latest/scale-to-width-down/1000?cb=20240522032304"
+    },
+    {
+      "name": "Ship's Wheel Shield",
+      "description": "This shield was awarded for getting to Level 8 in the Sunken Treasures event.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/e/ed/Ships_Wheel.jpg/revision/latest?cb=20240523203831"
+    },
+    {
+      "name": "Uncle Scottie",
+      "description": "This shield was awarded for getting in the Top 5 in the Memorial Marathon tournament.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/c/c6/Uncle_Scotie.jpg/revision/latest/scale-to-width-down/1000?cb=20240528183026"
+    },
+    {
+      "name": "Martian Runes",
+      "description": "This shield was awarded for getting to Level 12 in the Martian Treasures event.",
+      "image": "https://static.wikia.nocookie.net/monopoly/images/4/41/Martian_Runes.jpg/revision/latest?cb=20240607200054"
+    }
+  ]
+}

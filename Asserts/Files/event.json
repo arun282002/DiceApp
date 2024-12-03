@@ -1,0 +1,609 @@
+{
+  "event_data": [
+    {
+      "event_date": "Today's Events (Jun 19, 2024)",
+      "tournaments": [
+        {
+          "description": "Tournaments are brief, goal-oriented mini-events that offer rewards such as free dice, stickers, and more. While solo events focus on individual achievements, co-op events uniquely feature a leaderboard.",
+          "t_data" : [
+            {
+              "name": "Rock And Roll (Leaderboard)",
+              "time": "20/06/2024, 04:30:00"
+            }
+            ]
+        }
+      ],
+      "special_events": [
+        {
+          "description": "Special events serve as temporary boosts designed to expedite your progress in the game, offering advantages that span from a few minutes to several hours.",
+          "se_data" : [
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/LandmarkRush.png",
+              "name": "Landmark Rush",
+              "start_time": "09:30:00",
+              "end_date": "18:29:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/BuildersBash.png",
+              "name": "Builders Bash",
+              "start_time": "09:30:00",
+              "end_date": "18:29:00",
+              "duration": "01:00:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/JackpotStash_FreeParking_Money.png",
+              "name": "Free Parking",
+              "start_time": "18:30:00",
+              "end_date": "21:29:00",
+              "duration": "01:00:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/HighRoller.png",
+              "name": "High Roller",
+              "start_time": "21:30:00",
+              "end_date": "20/06/2024, 03:29:00",
+              "duration": "00:10:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/MegaHeist.png",
+              "name": "Mega Heist",
+              "start_time": "21:30:00",
+              "end_date": "20/06/2024, 03:29:00",
+              "duration": "00:45:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/JackpotStash_FreeParking_Rolls.png",
+              "name": "Free Parking",
+              "start_time": "20/06/2024, 03:30:00",
+              "end_date": "20/06/2024, 06:29:00",
+              "duration": "00:45:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/StickerBoom.png",
+              "name": "Sticker Boom",
+              "start_time": "20/06/2024, 06:30:00",
+              "end_date": "20/06/2024, 21:29:00",
+              "duration": "00:10:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/HighRoller.png",
+              "name": "High Roller",
+              "start_time": "20/06/2024, 06:30:00",
+              "end_date": "20/06/2024, 09:29:00",
+              "duration": "00:05:00"
+            }
+            ]
+        }
+      ],
+      "event_images": [
+        "https://monopolygo.wiki/content/images/2024/06/tn-3col-16.png"
+      ]
+    },
+    {
+      "event_date": "Jun 12, 2024",
+      "image": "https://monopolygo.wiki/content/images/2024/06/racecup-1.png",
+      "tournaments": [
+        {
+          "description": "Tournaments are brief, goal-oriented mini-events that offer rewards such as free dice, stickers, and more. While solo events focus on individual achievements, co-op events uniquely feature a leaderboard.",
+          "t_data" : [
+            {
+              "name": "Grease And Glory (Leaderboard)",
+              "time": "21:30:00"
+            },
+            {
+              "name": "Fast And Luxurious (Solo)",
+              "time": "21:30:00"
+            }
+            ]
+        }
+      ],
+      "special_events": [
+        {
+          "description": "Special events serve as temporary boosts designed to expedite your progress in the game, offering advantages that span from a few minutes to several hours.",
+          "se_data" : [
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/JackpotStash_FreeParking_Rolls.png",
+              "name": "Free Parking",
+              "start_time": "12:30:00",
+              "end_date": "18:29:00",
+              "duration": "00:45:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/JackpotStash_FreeParking_Rolls.png",
+              "name": "Free Parking",
+              "start_time": "18:30:00",
+              "end_date": "21:29:00",
+              "duration": "00:45:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/RaceCup.png",
+              "name": "Tycoon Racers",
+              "start_time": "20:30:00",
+              "end_date": "17/06/2024, 01:30:00",
+              "duration": ""
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/MegaHeist.png",
+              "name": "Mega Heist",
+              "start_time": "21:30:00",
+              "end_date": "13/06/2024, 03:29:00",
+              "duration": "00:45:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/WheelBoost.png",
+              "name": "Wheel Boost",
+              "start_time": "13/06/2024, 03:30:00",
+              "end_date": "13/06/2024, 09:29:00",
+              "duration": "00:30:00"
+            }
+            ]
+        }
+      ],
+      "event_images": [
+        "https://monopolygo.wiki/content/images/2024/06/tn-3col-10.png",
+        "https://monopolygo.wiki/content/images/size/w1000/2024/06/long-tourn-8.png",
+        "https://monopolygo.wiki/content/images/size/w1000/2024/06/long-tourn-8.png"
+      ]
+    },
+    {
+      "event_date": "Jun 11, 2024",
+      "tournaments": [
+        {
+          "description": "Tournaments are brief, goal-oriented mini-events that offer rewards such as free dice, stickers, and more. While solo events focus on individual achievements, co-op events uniquely feature a leaderboard.",
+          "t_data" : [
+            {
+              "name": "Billions Dash (Leaderboard)",
+              "time": "11/06/2024, 23:30:00"
+            }
+            ]
+        }
+      ],
+      "special_events": [
+        {
+          "description": "Special events serve as temporary boosts designed to expedite your progress in the game, offering advantages that span from a few minutes to several hours.",
+          "se_data" : [
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/BuildersBash.png",
+              "name": "Builder's Bash",
+              "start_time": "11/06/2024, 12:30:00",
+              "end_date": "11/06/2024, 18:29:00",
+              "duration": "01:00:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/WheelBoost.png",
+              "name": "Wheel Boost",
+              "start_time": "11/06/2024, 18:30:00",
+              "end_date": "00:29:00",
+              "duration": "00:20:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/MegaHeist.png",
+              "name": "Mega Heist",
+              "start_time": "00:30:00",
+              "end_date": "06:29:00",
+              "duration": "00:45:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/RentFrenzy.png",
+              "name": "Rent Frenzy",
+              "start_time": "06:30:00",
+              "end_date": "12:29:00",
+              "duration": "00:30:00"
+            }
+            ]
+        }
+      ],
+      "event_images": [
+        "https://monopolygo.wiki/content/images/2024/06/tn-3col-9.png"
+      ]
+    },
+    {
+      "event_date": "Jun 10, 2024",
+      "tournaments": [
+        {
+          "description": "Tournaments are brief, goal-oriented mini-events that offer rewards such as free dice, stickers, and more. While solo events focus on individual achievements, co-op events uniquely feature a leaderboard.",
+          "t_data" : [
+            {
+              "name": "Property Prodigies (Leaderboard)",
+              "time": "11/06/2024, 01:30:00"
+            },
+            {
+              "name": "Boardwalk Bonanza (Solo)",
+              "time": "11/06/2024, 01:30:00"
+            }
+            ]
+        }
+      ],
+      "special_events": [
+        {
+          "description": "Special events serve as temporary boosts designed to expedite your progress in the game, offering advantages that span from a few minutes to several hours.",
+          "se_data" : [
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/WheelBoost.png",
+              "name": "Wheel Boost",
+              "start_time": "10/06/2024, 09:30:00",
+              "end_date": "10/06/2024, 15:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/CashGrab.png",
+              "name": "Cash Grab",
+              "start_time": "10/06/2024, 15:30:00",
+              "end_date": "10/06/2024, 18:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/RentFrenzy.png",
+              "name": "Rent Frenzy",
+              "start_time": "10/06/2024, 18:30:00",
+              "end_date": "11/06/2024, 00:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/StickerBoom.png",
+              "name": "Sticker Boom",
+              "start_time": "11/06/2024, 00:30:00",
+              "end_date": "11/06/2024, 18:29:00",
+              "duration": "00:10:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/HighRoller.png",
+              "name": "High Roller",
+              "start_time": "13/06/2024, 03:30:00",
+              "end_date": "11/06/2024, 06:29:00",
+              "duration": "00:10:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/WheelBoost.png",
+              "name": "Wheel Boost",
+              "start_time": "11/06/2024, 06:30:00",
+              "end_date": "11/06/2024, 12:29:00",
+              "duration": "00:30:00"
+            }
+            ]
+        }
+      ],
+      "event_images": [
+        "https://monopolygo.wiki/content/images/2024/06/tn-3col-8.png",
+        "https://monopolygo.wiki/content/images/size/w1000/2024/06/long-tourn-7.png"
+      ]
+    },
+    {
+      "event_date": "Jun 09, 2024",
+      "tournaments": [
+        {
+          "description": "Tournaments are brief, goal-oriented mini-events that offer rewards such as free dice, stickers, and more. While solo events focus on individual achievements, co-op events uniquely feature a leaderboard.",
+          "t_data" : [
+            {
+              "name": "Rover Rally (Leaderboard)",
+              "time": "09/06/2024, 23:30:00"
+            }
+            ]
+        }
+      ],
+      "special_events": [
+        {
+          "description": "Special events serve as temporary boosts designed to expedite your progress in the game, offering advantages that span from a few minutes to several hours.",
+          "se_data" : [
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/MegaHeist.png",
+              "name": "Mega Heist",
+              "start_time": "09/06/2024, 12:30:00",
+              "end_date": "09/06/2024, 18:29:00",
+              "duration": "00:45:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/JackpotStash_FreeParking_Money.png",
+              "name": "Free Parking",
+              "start_time": "09/06/2024, 18:30:00",
+              "end_date": "10/06/2024, 00:29:00",
+              "duration": "01:00:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/RentFrenzy.png",
+              "name": "Rent Frenzy",
+              "start_time": "10/06/2024, 00:30:00",
+              "end_date": "10/06/2024, 06:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/BuildersBash.png",
+              "name": "Builders Bash",
+              "start_time": "10/06/2024, 00:30:00",
+              "end_date": "10/06/2024, 09:29:00",
+              "duration": "01:00:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/MegaHeist.png",
+              "name": "Mega Heist",
+              "start_time": "10/06/2024, 06:30:00",
+              "end_date": "10/06/2024, 09:29:00",
+              "duration": "00:45:00"
+            }
+            ]
+        }
+      ],
+      "event_images": [
+        "https://monopolygo.wiki/content/images/2024/06/tn-3col-7.png"
+      ]
+    },
+    {
+      "event_date": "Jun 08, 2024",
+      "tournaments": [
+        {
+          "description": "Tournaments are brief, goal-oriented mini-events that offer rewards such as free dice, stickers, and more. While solo events focus on individual achievements, co-op events uniquely feature a leaderboard.",
+          "t_data" : [
+            {
+              "name": "Martian Core Quest (Solo)",
+              "time": "08/06/2024, 20:30:00"
+            }
+            ]
+        }
+      ],
+      "special_events": [
+        {
+          "description": "Special events serve as temporary boosts designed to expedite your progress in the game, offering advantages that span from a few minutes to several hours.",
+          "se_data" : [
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/LandmarkRush.png",
+              "name": "Landmark Rush",
+              "start_time": "08/06/2024, 12:30:00",
+              "end_date": "08/06/2024, 18:29:00",
+              "duration": ""
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/BoardRush.png",
+              "name": "Board Rush",
+              "start_time": "08/06/2024, 18:30:00",
+              "end_date": "09/06/2024, 06:29:00",
+              "duration": ""
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/RentFrenzy.png",
+              "name": "Rent Frenzy",
+              "start_time": "08/06/2024, 18:30:00",
+              "end_date": "09/06/2024, 00:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/CashGrab.png",
+              "name": "Cash Grab",
+              "start_time": "09/06/2024, 00:30:00",
+              "end_date": "09/06/2024, 06:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/WheelBoost.png",
+              "name": "Wheel Boost",
+              "start_time": "09/06/2024, 06:30:00",
+              "end_date": "09/06/2024, 12:29:00",
+              "duration": "00:30:00"
+            }
+            ]
+        }
+      ],
+      "event_images": [
+        "https://monopolygo.wiki/content/images/size/w1000/2024/06/long-tourn-6.png"
+      ]
+    },
+    {
+      "event_date": "Jun 07, 2024 - Golden Blitz",
+      "image": "https://monopolygo.wiki/content/images/2024/01/dice-pattern.png",
+      "tournaments": [
+        {
+          "description": "Tournaments are brief, goal-oriented mini-events that offer rewards such as free dice, stickers, and more. While solo events focus on individual achievements, co-op events uniquely feature a leaderboard.",
+          "t_data" : [
+            {
+              "name": "Resource Run (Leaderboard)",
+              "time": "07/06/2024, 23:30:00"
+            }
+            ]
+        }
+      ],
+      "special_events": [
+        {
+          "description": "Special events serve as temporary boosts designed to expedite your progress in the game, offering advantages that span from a few minutes to several hours.",
+          "se_data" : [
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/MegaHeist.png",
+              "name": "Mega Heist",
+              "start_time": "07/06/2024, 09:30:00",
+              "end_date": "07/06/2024, 15:29:00",
+              "duration": "00:45:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/RentFrenzy.png",
+              "name": "Rent Frenzy",
+              "start_time": "07/06/2024, 15:30:00",
+              "end_date": "07/06/2024, 18:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/LandmarkRush.png",
+              "name": "Landmark Rush",
+              "start_time": "07/06/2024, 18:30:00",
+              "end_date": "08/06/2024, 00:29:00",
+              "duration": ""
+            },
+            {
+              "image": "",
+              "name": "Golden Blitz",
+              "start_time": "07/06/2024, 18:30:00",
+              "end_date": "08/06/2024, 18:29:00",
+              "duration": ""
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/WheelBoost.png",
+              "name": "Wheel Boost",
+              "start_time": "08/06/2024, 00:30:00",
+              "end_date": "08/06/2024, 06:29:00",
+              "duration": "00:20:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/MegaHeist.png",
+              "name": "Mega Heist",
+              "start_time": "08/06/2024, 06:30:00",
+              "end_date": "08/06/2024, 12:29:00",
+              "duration": "00:45:00"
+            }
+            ]
+        }
+      ],
+      "event_images": [
+        "https://monopolygo.wiki/content/images/2024/06/tn-3col-6.png"
+      ]
+    },
+    {
+      "event_date": "Jun 06, 2024 - Martian Treasures",
+      "image": "https://monopolygo.wiki/content/images/2024/06/dig-coming-soon.png",
+      "tournaments": [
+        {
+          "description": "Tournaments are brief, goal-oriented mini-events that offer rewards such as free dice, stickers, and more. While solo events focus on individual achievements, co-op events uniquely feature a leaderboard.",
+          "t_data" : [
+            {
+              "name": "Mars Metropolis (Solo)",
+              "time": "06/06/2024, 18:30:00"
+            },
+            {
+              "name": "Rover Rally (Leaderboard)",
+              "time": "06/06/2024, 23:30:00"
+            }
+            ]
+        }
+      ],
+      "special_events": [
+        {
+          "description": "Special events serve as temporary boosts designed to expedite your progress in the game, offering advantages that span from a few minutes to several hours.",
+          "se_data" : [
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/MegaHeist.png",
+              "name": "Mega Heist",
+              "start_time": "06/06/2024, 12:30:00",
+              "end_date": "06/06/2024, 18:29:00",
+              "duration": "00:45:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/RentFrenzy.png",
+              "name": "Rent Frenzy",
+              "start_time": "06/06/2024, 18:30:00",
+              "end_date": "06/06/2024, 21:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "",
+              "name": "Martian Treasures Dig",
+              "start_time": "06/06/2024, 18:30:00",
+              "end_date": "11/06/2024, 01:29:00",
+              "duration": ""
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/CashGrab.png",
+              "name": "Cash Grab",
+              "start_time": "06/06/2024, 21:30:00",
+              "end_date": "07/06/2024, 03:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/WheelBoost.png",
+              "name": "Wheel Boost",
+              "start_time": "07/06/2024, 03:30:00",
+              "end_date": "07/06/2024, 09:29:00",
+              "duration": "00:30:00"
+            }
+            ]
+        }
+      ],
+      "event_images": [
+        "https://monopolygo.wiki/content/images/2024/06/tn-3col-5.png",
+        "https://monopolygo.wiki/content/images/size/w1000/2024/06/long-tourn-5.png"
+      ]
+    },
+    {
+      "event_date": "Jun 05, 2024",
+      "tournaments": [
+        {
+          "description": "Tournaments are brief, goal-oriented mini-events that offer rewards such as free dice, stickers, and more. While solo events focus on individual achievements, co-op events uniquely feature a leaderboard.",
+          "t_data" : [
+            {
+              "name": "Pod Pursuit (Leaderboard)",
+              "time": "05/06/2024, 23:30:00"
+            }
+            ]
+        }
+      ],
+      "special_events": [
+        {
+          "description": "Special events serve as temporary boosts designed to expedite your progress in the game, offering advantages that span from a few minutes to several hours.",
+          "se_data" : [
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/RentFrenzy.png",
+              "name": "Rent Frenzy",
+              "start_time": "05/06/2024, 09:30:00",
+              "end_date": "05/06/2024, 12:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/CashGrab.png",
+              "name": "Cash Grab",
+              "start_time": "05/06/2024, 12:30:00",
+              "end_date": "05/06/2024, 15:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/WheelBoost.png",
+              "name": "Wheel Boost",
+              "start_time": "05/06/2024, 15:30:00",
+              "end_date": "05/06/2024, 18:29:00",
+              "duration": "00:20:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/WheelBoost.png",
+              "name": "Wheel Boost",
+              "start_time": "05/06/2024, 18:30:00",
+              "end_date": "05/06/2024, 21:29:00",
+              "duration": "00:20:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/LuckyRoll.png?2",
+              "name": "Roll Match",
+              "start_time": "05/06/2024, 18:30:00",
+              "end_date": "06/06/2024, 06:29:00",
+              "duration": "00:10:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/RentFrenzy.png",
+              "name": "Rent Frenzy",
+              "start_time": "05/06/2024, 21:30:00",
+              "end_date": "06/06/2024, 00:29:00",
+              "duration": "00:30:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/JackpotStash_FreeParking_Money.png",
+              "name": "Free Parking",
+              "start_time": "06/06/2024, 00:30:00",
+              "end_date": "06/06/2024, 06:29:00",
+              "duration": "00:45:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/LuckyRoll.png?2",
+              "name": "Roll Match",
+              "start_time": "06/06/2024, 06:30:00",
+              "end_date": "06/06/2024, 18:29:00",
+              "duration": "00:10:00"
+            },
+            {
+              "image": "https://cdn.monopolygo.wiki/commodities/BuildersBash.png",
+              "name": "Builders Bash",
+              "start_time": "06/06/2024, 06:30:00",
+              "end_date": "06/06/2024, 12:29:00",
+              "duration": "01:00:00"
+            }
+            ]
+        }
+      ],
+      "event_images": [
+        "https://monopolygo.wiki/content/images/2024/06/tn-3col-4.png"
+      ]
+    }
+  ]
+}
